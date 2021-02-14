@@ -1,4 +1,4 @@
-# HelloFresh_NLP_SpringBoot
+# HelloFresh NLP SpringBoot
 
 ## NLP User Interface Screen Shot
 
